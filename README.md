@@ -67,6 +67,7 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [CISO AI](https://chat.openai.com/g/g-76iz872HL-ciso-ai): A team of cyber security experts providing comprehensive advice on all security aspects.
 * [AI Cyberwar](https://chat.openai.com/g/g-5gRtXufX5-ai-cyberwar): AI and cyber warfare expert, advising on policy, conflict, and technical trends.
 * [CMMC GPT](https://chat.openai.com/g/g-aauXdJQ31-cmmc-gpt): BLUF-focused CMMC 2.0 expert.
+* [Common Criteria Expert Guide] (https://chat.openai.com/g/g-kUyiPRLVm-common-criteria-expert-guide): A Common Criteria (ISO 15408) expert helping you create and validate evidence documentation up to EAL7.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
